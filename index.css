@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: purple;
+}
+
+.container {
+    
+    display: flex;
+    justify-content: space-around;
+    
+}
+.column {
+    
+    font-size: 20px;
+    
+}
+button {
+    
+    background-color: wheat;
+}
+.score{
+    
+    background: wheat;
+    font-size: 60px;
+    margin: 20px;
+}
